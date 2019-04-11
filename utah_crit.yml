@@ -253,7 +253,7 @@ Type: CAD
 Comments: Sara Add
 Direction: ''
 Lex: OSA
-Regex: (OSA|Obstructive sleep apnea|sleep apnea)
+Regex: (osa|obstructive sleep apnea|sleep apnea)
 Type: OSA
 ---
 Comments: Sara Add
