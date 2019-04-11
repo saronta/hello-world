@@ -249,3 +249,15 @@ Direction: ''
 Lex: CAD
 Regex: (CAD|coronary arteries)
 Type: CHF
+---
+Comments: Sara Add
+Direction: ''
+Lex: OSA
+Regex: (OSA|Obstructive sleep apnea|sleep apnea)
+Type: CHF
+---
+Comments: Sara Add
+Direction: ''
+Lex: Obesity
+Regex: (Obesity)
+Type: Obesity
