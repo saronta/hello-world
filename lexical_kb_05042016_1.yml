@@ -1,0 +1,173 @@
+Comments: ''
+Direction: backward
+Lex: are ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: be ruled out
+Regex: ''
+Type: INDICATION
+---
+Comments: ''
+Direction: backward
+Lex: being ruled out
+Regex: ''
+Type: INDICATION
+---
+Comments: ''
+Direction: backward
+Lex: can be ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: cannot be excluded
+Regex: ''
+Type: AMBIVALENT_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: cannot totally be excluded
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: could be ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: examination
+Regex: \b(examination|exam|study)\b
+Type: INDICATION
+---
+Comments: ''
+Direction: backward
+Lex: free
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: has been ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: have been ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: is in the differential
+Regex: is\sin\sthe\sdifferential
+Type: AMBIVALENT_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: is negative
+Regex: (is|was) negative
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: is not excluded
+Regex: (is|was|are|were)\snot\sexcluded
+Type: AMBIVALENT_EXISTENCE
+---
+Comments: 2/28/2013; added definitely; removed ed
+Direction: backward
+Lex: is not entirely excluded
+Regex: (is|was|are|were|does)\snot\s(entirely|totally|definitely|completely\s) excluded
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: 4/29/2013
+Direction: backward
+Lex: is present
+Regex: (is|are) present
+Type: DEFINITE_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: is ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: is to be ruled out
+Regex: ''
+Type: INDICATION
+---
+Comments: ''
+Direction: backward
+Lex: is ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: might be ruled out
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: must be ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: not been ruled out
+Regex: ''
+Type: INDICATION
+---
+Comments: 3/22/2013
+Direction: backward
+Lex: not definitively seen
+Regex: not definitively (seen|visualized)
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: not excluded
+Regex: not\s(excluded|ruled\sout)
+Type: AMBIVALENT_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: now measuring
+Regex: ''
+Type: HISTORICAL
+---
+Comments: ''
+Direction: backward
+Lex: ought to be ruled out
+Regex: ''
+Type: INDICATION
+---
+Comments: 3/22/2013
+Direction: backward
+Lex: progressed
+Regex: ''
+Type: HISTORICAL
+---
+Comments: ''
+Direction: backward
+Lex: protocol
+Regex: ''
+Type: INDICATION
+---
+Comments: ''
+Direction: backward
+Lex: resolved
+Regex: ''
+Type: HISTORICAL
