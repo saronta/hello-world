@@ -243,3 +243,9 @@ Direction: ''
 Lex: CHF
 Regex: (CHF|Congestive heart failure)
 Type: CHF
+---
+Comments: Sara Add
+Direction: ''
+Lex: CAD
+Regex: (CAD|coronary arteries)
+Type: CHF
