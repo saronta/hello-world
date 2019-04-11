@@ -237,3 +237,9 @@ Direction: ''
 Lex: thrombosis
 Regex: (thromb(us|i|osis|osed)\b|clob\b)
 Type: THROMBOSIS
+---
+Comments: Sara Add
+Direction: ''
+Lex: CHF
+Regex: (CHF|Congestive heart failure)
+Type: CHF
