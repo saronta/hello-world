@@ -1,0 +1,41 @@
+Comments: ''
+Direction: backward
+Lex: are ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: be ruled out
+Regex: ''
+Type: INDICATION
+---
+Comments: ''
+Direction: backward
+Lex: being ruled out
+Regex: ''
+Type: INDICATION
+---
+Comments: ''
+Direction: backward
+Lex: can be ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: cannot be excluded
+Regex: ''
+Type: AMBIVALENT_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: cannot totally be excluded
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Comments: ''
+Direction: backward
+Lex: could be ruled out
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
