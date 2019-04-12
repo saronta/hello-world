@@ -267,3 +267,9 @@ Direction: ''
 Lex: hypertension
 Regex: (hypertension)
 Type: Hypertension
+---
+Comments: Sara Add
+Direction: ''
+Lex: pulmonary vascular congestion
+Regex: (pulmonary vascular congestion)
+Type: pulmonary vascular congestion
