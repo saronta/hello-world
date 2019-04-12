@@ -259,5 +259,11 @@ Type: OSA
 Comments: Sara Add
 Direction: ''
 Lex: Obesity
-Regex: (Obesity)
+Regex: (obesity)
 Type: Obesity
+---
+Comments: Sara Add
+Direction: ''
+Lex: Hypertension
+Regex: (hypertension)
+Type: Hypertension
