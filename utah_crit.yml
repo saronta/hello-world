@@ -246,24 +246,24 @@ Type: CHF
 ---
 Comments: Sara Add
 Direction: ''
-Lex: CAD
+Lex: cad
 Regex: (CAD|coronary arteries)
 Type: CAD
 ---
 Comments: Sara Add
 Direction: ''
-Lex: OSA
+Lex: osa
 Regex: (osa|obstructive sleep apnea|sleep apnea)
 Type: OSA
 ---
 Comments: Sara Add
 Direction: ''
-Lex: Obesity
+Lex: obesity
 Regex: (obesity)
 Type: Obesity
 ---
 Comments: Sara Add
 Direction: ''
-Lex: Hypertension
+Lex: hypertension
 Regex: (hypertension)
 Type: Hypertension
