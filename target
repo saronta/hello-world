@@ -1,0 +1,95 @@
+Comments: Sara Add 1
+Direction: ''
+Lex: Asthma
+Regex: (Asthma)
+Type: Asthma
+---
+Comments: Sara Add 2
+Direction: ''
+Lex: cad
+Regex: (CAD|coronary arteries)
+Type: CAD
+---
+Comments: Sara Add 3
+Direction: ''
+Lex: CHF
+Regex: (CHF|Congestive heart failure)
+Type: CHF
+---
+Comments: Sara Add 4
+Direction: ''
+Lex: Depression
+Regex: (Depression)
+Type: Depression
+---
+Comments: Sara Add 5
+Direction: ''
+Lex: Diabetes
+Regex: (Diabetes)
+Type: Diabetes
+---
+Comments: Sara Add 6
+Direction: ''
+Lex: Gallstones
+Regex: (Gallstones|cholecystitis|cholecystitis|Biliary calculi|Cholecystolithiasis)
+Type: Gallstones
+---
+Comments: Sara Add 7
+Direction: ''
+Lex: GERD
+Regex: (Gastroesophageal reflux disease)
+Type: GERD
+---
+Comments: Sara Add 8
+Direction: ''
+Lex: Gout
+Regex: (Gout)
+Type: Gout
+---
+Comments: Sara Add 9
+Direction: ''
+Lex: Hypercholesterolemia
+Regex: (Hypercholesterolemia|High cholesterol)
+Type: Hypercholesterolemia
+---
+Comments: Sara Add 10
+Direction: ''
+Lex: hypertension
+Regex: (hypertension)
+Type: Hypertension
+---
+Comments: Sara Add 11
+Direction: ''
+Lex: Hypertriglyceridemia
+Regex: (Hypertriglyceridemia|triglycerides)
+Type: Hypertriglyceridemia
+---
+Comments: Sara Add 12
+Direction: ''
+Lex: OA
+Regex: (OA|Osteoarthritis)
+Type: OA
+---
+Comments: Sara Add 13
+Direction: ''
+Lex: obesity
+Regex: (obesity)
+Type: Obesity
+---
+Comments: Sara Add 14
+Direction: ''
+Lex: osa
+Regex: (osa|obstructive sleep apnea|sleep apnea)
+Type: OSA
+---
+Comments: Sara Add 15
+Direction: ''
+Lex: PVD
+Regex: (PVD|Peripheral vascular disease)
+Type: PVD
+---
+Comments: Sara Add 16
+Direction: ''
+Lex: Venous Insufficiency
+Regex: (Venous Insufficiency)
+Type: Venous Insufficiency
