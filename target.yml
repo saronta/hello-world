@@ -7,7 +7,7 @@ Type: Asthma
 Comments: Sara Add 2
 Direction: ''
 Lex: cad
-Regex: (CAD|coronary arteries)
+Regex: (CAD|coronary arteries|Coronary artery disease)
 Type: CAD
 ---
 Comments: Sara Add 3
