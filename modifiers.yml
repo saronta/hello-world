@@ -2281,6 +2281,6 @@ Type: PROBABLE_EXISTENCE
 ---
 Comments: ''
 Direction: bidirectional
-Lex: ?
-Regex: /?
+Lex: question mark
+Regex:\b /? \b
 Type: PROBABLE_EXISTENCE
