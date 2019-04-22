@@ -395,12 +395,6 @@ Lex: persistent
 Regex: ''
 Type: HISTORICAL
 ---
-Comments: 2/28/2013
-Direction: bidirectional
-Lex: possible
-Regex: possible|possiblity
-Type: PROBABLE_EXISTENCE
----
 Comments: 3/21/2013; changed to bidirectional
 Direction: bidirectional
 Lex: previous
@@ -2279,8 +2273,32 @@ Lex: favor
 Regex: ''
 Type: PROBABLE_EXISTENCE
 ---
-Comments: ''
+Comments: Sara Add 1
 Direction: bidirectional
 Lex: question mark
 Regex: \? 
+Type: PROBABLE_EXISTENCE
+---
+Comments: Sara Add 2
+Direction: bidirectional
+Lex: possible
+Regex: possible|possiblity
+Type: PROBABLE_EXISTENCE
+---
+Comments: Sara Add 3
+Direction: bidirectional
+Lex: may
+Regex: may
+Type: PROBABLE_EXISTENCE
+---
+Comments: Sara Add 4
+Direction: bidirectional
+Lex: question
+Regex: questionable|question
+Type: PROBABLE_EXISTENCE
+---
+Comments: Sara Add 5
+Direction: bidirectional
+Lex: consider
+Regex: consider
 Type: PROBABLE_EXISTENCE
