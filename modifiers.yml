@@ -2278,9 +2278,3 @@ Direction: bidirectional
 Lex: favor
 Regex: ''
 Type: PROBABLE_EXISTENCE
----
-Comments: ''
-Direction: bidirectional
-Lex: question mark
-Regex:\b /? \b
-Type: PROBABLE_EXISTENCE
