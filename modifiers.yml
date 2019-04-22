@@ -236,7 +236,7 @@ Comments: ''
 Direction: bidirectional
 Lex: appear
 Regex: (\bappear\b|\bappears\b)
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: 2/28/2013
 Direction: bidirectional
@@ -272,7 +272,7 @@ Comments: ''
 Direction: bidirectional
 Lex: equivocal
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: bidirectional
@@ -326,10 +326,10 @@ Comments: ''
 Direction: bidirectional
 Lex: likely
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
-Comments: 2/28/2013; thought of just changing chronic to bidirectional;  but also
-  capture likely
+Comments: 2/28/2013; thought of just changing chronic to bidirectional; but also
+capture likely
 Direction: bidirectional
 Lex: likely chronic
 Regex: ''
@@ -423,7 +423,7 @@ Comments: 3/21/2013
 Direction: bidirectional
 Lex: probable
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: 4/29/2013
 Direction: bidirectional
@@ -441,7 +441,7 @@ Comments: ''
 Direction: bidirectional
 Lex: should be considered
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: bidirectional
@@ -465,7 +465,7 @@ Comments: ''
 Direction: bidirectional
 Lex: suggest
 Regex: \bsuggest[a-z]+\b
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: bidirectional
@@ -573,7 +573,7 @@ Comments: ''
 Direction: forward
 Lex: checked for
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: '2/28/2013; simplified expression '
 Direction: forward
@@ -597,7 +597,7 @@ Comments: ''
 Direction: forward
 Lex: concerning for
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: 2/14/2013
 Direction: forward
@@ -801,13 +801,13 @@ Comments: 2/28/2013
 Direction: forward
 Lex: may be related
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: forward
 Lex: may represent
 Regex: (may|might)\s(represent|reflect)
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: forward
@@ -1155,7 +1155,7 @@ Comments: ''
 Direction: forward
 Lex: rather than
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: forward
@@ -1341,13 +1341,13 @@ Comments: ''
 Direction: forward
 Lex: suspicious
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: forward
 Lex: suspicous
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: forward
@@ -1437,7 +1437,7 @@ Comments: ''
 Direction: forward
 Lex: worrisome
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: forward
@@ -2013,13 +2013,13 @@ Comments: ''
 Direction: bidirectional
 Lex: as a suggestion
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: forward
 Lex: associated with
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: bidirectional
@@ -2073,13 +2073,13 @@ Comments: ''
 Direction: bidirectional
 Lex: construed as
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: forward
 Lex: could be
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: bidirectional
@@ -2091,7 +2091,7 @@ Comments: ''
 Direction: forward
 Lex: could represent
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: bidirectional
@@ -2103,7 +2103,7 @@ Comments: ''
 Direction: forward
 Lex: every indication
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: backward
@@ -2115,7 +2115,7 @@ Comments: ''
 Direction: bidirectional
 Lex: exhibit
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: forward
@@ -2199,13 +2199,13 @@ Comments: ''
 Direction: backward
 Lex: seen best
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: bidirectional
 Lex: signs of
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: backward
@@ -2235,7 +2235,7 @@ Comments: ''
 Direction: forward
 Lex: possibly
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: forward
@@ -2247,13 +2247,13 @@ Comments: ''
 Direction: forward
 Lex: suspect
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: forward
 Lex: likely represents
 Regex: likely (represents|representing)
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: ''
 Direction: backwards
@@ -2271,7 +2271,7 @@ Comments: ''
 Direction: bidirectional
 Lex: favor
 Regex: ''
-Type: PROBABLE_EXISTENCE
+Type: PROBABLE_EXISTENCE_0
 ---
 Comments: Sara Add 1
 Direction: bidirectional
