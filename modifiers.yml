@@ -328,8 +328,7 @@ Lex: likely
 Regex: ''
 Type: PROBABLE_EXISTENCE_0
 ---
-Comments: 2/28/2013; thought of just changing chronic to bidirectional; but also
-capture likely
+Comments: 2/28/2013; thought of just changing chronic to bidirectional; but also capture likely
 Direction: bidirectional
 Lex: likely chronic
 Regex: ''
