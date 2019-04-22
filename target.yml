@@ -37,7 +37,7 @@ Type: Gallstones
 Comments: Sara Add 7
 Direction: ''
 Lex: GERD
-Regex: (Gastroesophageal reflux disease)
+Regex: (GERD|gastroesophageal reflux disease|gastroesophageal reflux|reflux esophagitis)
 Type: GERD
 ---
 Comments: Sara Add 8
